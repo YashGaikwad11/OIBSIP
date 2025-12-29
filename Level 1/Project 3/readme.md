@@ -4,7 +4,7 @@
 To analyze public sentiment from Twitter data using text analytics techniques.
 
 ## Dataset
-Twitter Sentiment Dataset from Kaggle.
+Twitter Sentiment Dataset from Kaggle,                       Dataset Link - https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset
 
 ## Tools Used
 - Python
