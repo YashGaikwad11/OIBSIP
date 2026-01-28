@@ -1,13 +1,14 @@
-#Data Cleaning Project
- #Description
+# Data Cleaning Project
+
+ # Description
 
 This project focuses on cleaning a real-world dataset by handling missing values, removing duplicates, standardizing formats, and detecting outliers. Clean data is essential for reliable analysis and machine learning.
 
- #Dataset
+ # Dataset
 
 Airbnb NYC 2019
 
- #Tasks Performed
+ # Tasks Performed
 
 Data integrity checks
 
