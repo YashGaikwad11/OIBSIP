@@ -5,7 +5,7 @@ This repository contains all the projects completed during my **AICTE Oasis Info
 ## Internship Details
 - Organization: Oasis Infobyte
 - Domain: Data Analytics
-- Duration: Dec 2025 – Jan 2026
+- Duration: Jan 2026- Frb 2026
 
 ## Project Levels
 - Level 1: Data Analysis & Visualization
