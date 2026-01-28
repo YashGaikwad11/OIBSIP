@@ -1,9 +1,10 @@
-Wine Quality Prediction Project
- Description
+# Wine Quality Prediction Project
+ 
+ # Description
 
 This project predicts the quality of wine based on its chemical properties using multiple classification models. The aim is to analyze and compare different machine learning algorithms to determine the best-performing model.
 
- Models Used
+ # Models Used
 
 Random Forest Classifier
 
@@ -11,7 +12,7 @@ SGD Classifier
 
 Support Vector Classifier (SVC)
 
- Techniques Used
+ # Techniques Used
 
 Data Scaling
 
@@ -21,7 +22,7 @@ Confusion Matrix
 
 Accuracy Comparison
 
- Libraries
+# Libraries
 
 Pandas
 
@@ -33,6 +34,6 @@ Matplotlib
 
 Scikit-learn
 
- Output
+# Output
 
 The project compares different classifiers and identifies the best-performing model for predicting wine quality.
